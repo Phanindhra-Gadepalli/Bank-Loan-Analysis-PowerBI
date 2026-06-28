@@ -93,7 +93,7 @@ Displays detailed loan-level records, allowing users to explore loan information
 ```text
 Bank_Loan_PowerBI/
 │── Bank_Loan_Dashboard.pbix
-│── Bank_Loan_Data.xlsx
+│── Bank_Loan_Data.csv
 │── README.md
 └── Images/
     ├── Summary.jpeg
