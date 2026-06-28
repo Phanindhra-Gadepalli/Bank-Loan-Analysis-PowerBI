@@ -118,5 +118,3 @@ While building this project, I gained practical experience in:
 ## Author
 
 **Phanindhra Gadepalli**
-
-If you found this project useful, feel free to give it a ⭐ on GitHub.
